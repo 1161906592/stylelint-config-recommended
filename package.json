@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-config-recommended",
+  "name": "@celi/stylelint-config-recommended",
   "version": "1.0.0",
   "main": "index.js",
   "repository": {
@@ -8,6 +8,7 @@
   },
   "keywords": [
     "stylelint",
+    "scss",
     "recommended"
   ],
   "author": "liuyang <1161906592@qq.com>",
@@ -18,7 +19,7 @@
   "homepage": "https://github.com/1161906592/stylelint-config-recommended#readme",
   "dependencies": {
     "stylelint-config-recess-order": "^3.0.0",
-    "stylelint-config-standard": "^25.0.0"
+    "stylelint-config-standard-scss": "^3.0.0"
   },
   "peerDependencies": {
     "stylelint": ">=14.0.0"
